@@ -1,4 +1,4 @@
-package com.manju.basics;
+package com.manju;
 import java.util.Scanner;
 public class Sum {
     static void main() {
