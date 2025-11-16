@@ -1,4 +1,4 @@
-package com.manju;
+package com.manju.basics;
 
 import java.util.Scanner;
 
